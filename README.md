@@ -26,11 +26,11 @@ This project identifies the key drivers and provides actionable operational reco
 ```text
 food-delivery-ops-analytics/
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   └── 02_eda.ipynb
+│   ├── data_cleaning.ipynb
+│   └── eda.ipynb
 ├── SQL/
-│   ├── 01_kpi_queries.sql
-│   ├── 02_window_functions.sql
+│   ├── kpi_queries.sql
+│   ├── window_functions.sql
 │   └── ...
 ├── dashboard/
 │   ├── food_delivery_dashboard.pbix
@@ -45,7 +45,11 @@ food-delivery-ops-analytics/
 ```
 
 ## Dashboard Preview
-[Executive Summary Preview](dashboard/screenshots/executive_summary.png)
+![Executive Summary](dashboard/screenshots/executive_summary.png)
+![Delivery Performance](dashboard/screenshots/delivery_performance.png)
+![Partner Performance](dashboard/screenshots/partner_performance.png)
+![time location](dashboard/screenshots/time_location.png)
+![Key Findings](dashboard/screenshots/key_findings.png)
 
 ## Business Report
 See [reports/business_report.md](reports/business_report.md)
