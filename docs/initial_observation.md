@@ -7,7 +7,7 @@ Date reviewed: 09/05/2026
 - Order_Date appears to be in MM-DD-YYYY format — need to parse carefully
 - Some rows appear to have NaN values in Delivery_person_Age and Time_Ordered — need to clean for better analysis
 - City column has 3 values: Metropolitian, Urban, Semi-Urban — note the 
-  spelling "Metropolitian" is a typo in the data, keep as-is
+  spelling "Metropolitian" is a typo in the data, the spelling will be retained intentionally to maintain consistency across preprocessing and Power BI visuals.
 - multiple_deliveries column has some NaN values visible
 - Weather_conditions has 6 categories: Sunny, Stormy, Sandstorms, 
   Cloudy, Fog, Windy
