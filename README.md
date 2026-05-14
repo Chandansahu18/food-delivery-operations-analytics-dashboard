@@ -55,5 +55,5 @@ food-delivery-ops-analytics/
 See [reports/business_report.md](reports/business_report.md)
 
 ## Data Source
-[Food Delivery Dataset — Kaggle](https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset)
+[Food Delivery Dataset - Kaggle](https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset)
 > Raw data not included in repo. See data/README.md for download instructions.
