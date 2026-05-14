@@ -11,8 +11,8 @@ routing can materially reduce breach rates.
 
 ## Key Findings
 
-- **29.83%** of all orders breach the 30-minute SLA — roughly 13,081 orders affected
-- **Festival days** show a 100% SLA breach rate across 857 orders — zero exceptions
+- **29.83%** of all orders breach the 30-minute SLA - roughly 13,081 orders affected
+- **Festival days** show a 100% SLA breach rate across 857 orders - zero exceptions
 - **Semi-urban cities** have the highest breach rate among all city tiers
 - **Cloudy and Foggy weather** conditions drive breach rates of 43.9% and 43.8% respectively
 - **8–10 PM** is the peak breach window, coinciding with dinner demand surge
@@ -39,7 +39,7 @@ The 8–10 PM window is the highest-risk delivery period. Demand volume peaks wh
 available partner capacity does not scale proportionally.
 
 ### Festival Impact
-857 orders placed on festival days show a 100% breach rate — no order was delivered 
+857 orders placed on festival days show a 100% breach rate - no order was delivered 
 within SLA. This indicates a complete operational breakdown during festival periods, 
 not just degraded performance.
 
@@ -59,8 +59,8 @@ is insufficient for order volume. Recommendation: geo-cluster semi-urban orders
 and assign dedicated partner pools rather than sharing with urban supply.
 
 **3. Evening Demand Surge Staffing**
-The 8–10 PM window requires mandatory surge staffing. Recommendation: incentivize 
-partner availability between 7–10 PM through guaranteed minimum earnings, reducing 
+The 8-10 PM window requires mandatory surge staffing. Recommendation: incentivize 
+partner availability between 7-10 PM through guaranteed minimum earnings, reducing 
 the gap between order demand and fulfillment capacity.
 
 ---

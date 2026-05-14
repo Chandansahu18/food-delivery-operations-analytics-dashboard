@@ -10,7 +10,7 @@ This project identifies the key drivers and provides actionable operational reco
 ## Key Findings
 - 29.83% overall SLA breach rate (~13,081 orders affected)
 - Semi-urban cities show highest structural breach rates
-- 8–10 PM dinner window is peak breach period
+- 8-10 PM dinner window is peak breach period
 - Cloudy and foggy weather push breach rates to ~44%
 
 ## Tools & Stack

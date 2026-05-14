@@ -17,4 +17,4 @@ Raw data files are excluded via .gitignore because:
 ## File schema
 
 After download, `data/raw/` should contain:
-- `delivery-dataset.csv` — 20 columns, ~45,000 rows, one row per order
+- `delivery-dataset.csv` - 20 columns, ~45,000 rows, one row per order
