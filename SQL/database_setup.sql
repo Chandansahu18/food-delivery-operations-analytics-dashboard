@@ -6,7 +6,7 @@
 
 -- Step 2: Create table
 CREATE TABLE orders (
-    order_id VARCHAR(50),
+  order_id VARCHAR(50),
     delivery_person_id VARCHAR(50),
     delivery_person_age INTEGER,
     delivery_person_rating FLOAT,
@@ -26,14 +26,14 @@ CREATE TABLE orders (
     festival VARCHAR(10),
     city VARCHAR(50),
     time_taken_min FLOAT,
-    sla_breached BOOLEAN,
     order_hour INTEGER,
     order_day_of_week VARCHAR(20),
     is_weekend BOOLEAN,
     order_month INTEGER,
     distance_km FLOAT,
     delivery_speed VARCHAR(30),
-    is_outlier BOOLEAN	
+    sla_breached BOOLEAN,
+    is_outlier BOOLEAN
 );
 
 -- Step 3: Load data
