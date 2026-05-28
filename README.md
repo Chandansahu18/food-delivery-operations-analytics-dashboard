@@ -1,6 +1,6 @@
 # Food Delivery Operations Analytics
 
-End-to-end data analyst portfolio project analyzing SLA breach patterns 
+Food delivery operations analytics project analyzing SLA breach patterns 
 across 43,853 food delivery orders.
 
 ## Business Problem
